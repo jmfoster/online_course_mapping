@@ -166,10 +166,10 @@ function initialize() {
     changeSize(d3.select("#currentDisplay").attr("item_value"));
 
     // Open up some of the tree branches.
-    viz.toggleNode(data.values[3]);
-    viz.toggleNode(data.values[3].values[0]);
-    viz.toggleNode(data.values[3].values[1]);
-    viz.toggleNode(data.values[3].values[2]);
+    viz.toggleNode(data.values[1]);
+    viz.toggleNode(data.values[1].values[7]);
+    //viz.toggleNode(data.values[1].values[1]);
+    //viz.toggleNode(data.values[3].values[2]);
     //viz.toggleNode(data.values[2].values[0]);
     //viz.toggleNode(data.values[3]);
 
