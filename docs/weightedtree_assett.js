@@ -258,9 +258,11 @@ function onClick(g,d,i) {
 function changeSkin(val) {
     if (val == "None") {
         theme.release();
+        theme.skin(val);
     }
     else {
-        theme.viz(viz);
+    	theme.release();
+        //theme.viz(viz);
         theme.skin(val);
     }
 
