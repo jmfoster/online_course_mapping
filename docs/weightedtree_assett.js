@@ -266,7 +266,8 @@ function changeSkin(val) {
         theme.skin(val);
     }
 
-    viz().update();  //We could use theme.apply() here, but we want to trigger the tween.
+    //viz().update();  //We could use theme.apply() here, but we want to trigger the tween.
+    theme.apply();
 }
 
 //This changes the size of the component by adjusting the width/height;
