@@ -258,16 +258,16 @@ function onClick(g,d,i) {
 function changeSkin(val) {
     if (val == "None") {
         theme.release();
-        theme.skin(val);
+        theme.skin(vizuly.skin.WEIGHTED_TREE_AXIIS);
     }
     else {
     	theme.release();
-        //theme.viz(viz);
+        theme.viz(viz);
         theme.skin(val);
     }
 
-    //viz().update();  //We could use theme.apply() here, but we want to trigger the tween.
-    theme.apply();
+    viz().update();  //We could use theme.apply() here, but we want to trigger the tween.
+    //theme.apply();
 }
 
 //This changes the size of the component by adjusting the width/height;
