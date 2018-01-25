@@ -1,5 +1,5 @@
 # ASSETT Reach visualizations
-Visualizations for analysis of ASSETT program's reach and impact on the University of Colorado Boulder
+Visualizations for analysis of the [Arts & Sciences Support of Education Through Technology (ASSETT)](https://www.colorado.edu/assett/) program's reach and impact on the University of Colorado Boulder.
 
 # Event Participiation
 
