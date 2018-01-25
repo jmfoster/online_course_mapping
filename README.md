@@ -8,7 +8,7 @@ The weighted tree visualizations show the reach of ASSETT into the College of Ar
 ## Weighted tree diagram:
 [Interactive Weighted Tree Diagram](https://jmfoster.github.io/reach/docs/weightedtree_assett.html)
 
-Same data in a Sankey diagram [using the SankeyMATIC online tool](http://sankeymatic.com):
+Same data in a Sankey diagram:
 ![sankey chart](https://github.com/jmfoster/reach/blob/master/figures/reach_sankey.svg)
 
 ## Overall Event Participation
