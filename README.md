@@ -11,17 +11,19 @@ The weighted tree visualizations show the reach of ASSETT into the College of Ar
 Same data in a Sankey diagram:
 ![sankey chart](https://github.com/jmfoster/reach/blob/master/figures/reach_sankey.svg)
 
-## Event Participation by Year and Division
+## Overall Event Participation
 
-![fig1](https://github.com/jmfoster/reach/blob/master/figures/division_event_participation_by_year.png)
+![fig0](https://github.com/jmfoster/reach/blob/master/figures/event_participation.png)
 
-![fig2](https://github.com/jmfoster/reach/blob/master/figures/event_participation_by_year.png)
+![fig1](https://github.com/jmfoster/reach/blob/master/figures/event_participation_by_year.png)
 
+## Event Participation by Division
 
-## Event Participation by Division and Department
+![fig2](https://github.com/jmfoster/reach/blob/master/figures/division_event_participation_by_year.png)
 
 ![fig3](https://github.com/jmfoster/reach/blob/master/figures/division_event_participation.png)
 
+## Event Participation by Department
 
 ![fig4](https://github.com/jmfoster/reach/blob/master/figures/Arts%20and%20Humanities_participation_by_dept.png)
 
