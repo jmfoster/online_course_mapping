@@ -1,10 +1,14 @@
 # ASSETT Reach visualizations
 Visualizations for analysis of ASSETT program's reach and impact on the University of Colorado Boulder
 
+# Event Participiation
+
+The weighted tree visualizations show the reach of ASSETT into the College of Arts and Sciences, organized hierarchically by division, department, and event type. Line thickness corresponds to the number of people that have participated in ASSETT events from that department or division.
+
 ## Weighted tree diagram:
 [Interactive Weighted Tree Diagram](https://jmfoster.github.io/reach/docs/weightedtree_assett.html)
 
-Same data in a sankey chart:
+Same data in a Sankey diagram:
 ![sankey chart](https://github.com/jmfoster/reach/blob/master/figures/reach_sankey.svg)
 
 ## Event Participation by Year and Division
