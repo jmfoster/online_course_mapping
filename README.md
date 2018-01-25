@@ -20,11 +20,14 @@ Same data in a Sankey diagram:
 
 ## Event Participation by Division and Department
 
-![fig3](https://github.com/jmfoster/reach/blob/master/figures/Arts%20and%20Humanities_participation_by_dept.png)
+![fig3](https://github.com/jmfoster/reach/blob/master/figures/division_event_participation.png)
 
-![fig4](https://github.com/jmfoster/reach/blob/master/figures/Natural%20Sciences_participation_by_dept.png)
 
-![fig5](https://github.com/jmfoster/reach/blob/master/figures/Social%20Sciences_participation_by_dept.png)
+![fig4](https://github.com/jmfoster/reach/blob/master/figures/Arts%20and%20Humanities_participation_by_dept.png)
 
-![fig6](https://github.com/jmfoster/reach/blob/master/figures/Other_participation_by_dept.png)
+![fig5](https://github.com/jmfoster/reach/blob/master/figures/Natural%20Sciences_participation_by_dept.png)
+
+![fig6](https://github.com/jmfoster/reach/blob/master/figures/Social%20Sciences_participation_by_dept.png)
+
+![fig7](https://github.com/jmfoster/reach/blob/master/figures/Other_participation_by_dept.png)
 
