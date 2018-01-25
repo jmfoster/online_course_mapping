@@ -19,9 +19,9 @@ Same data in a Sankey diagram:
 
 ## Event Participation by Division
 
-![fig2](https://github.com/jmfoster/reach/blob/master/figures/division_event_participation_by_year.png)
+![fig2](https://github.com/jmfoster/reach/blob/master/figures/division_event_participation.png)
 
-![fig3](https://github.com/jmfoster/reach/blob/master/figures/division_event_participation.png)
+![fig3](https://github.com/jmfoster/reach/blob/master/figures/division_event_participation_by_year.png)
 
 ## Event Participation by Department
 
