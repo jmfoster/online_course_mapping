@@ -47,18 +47,17 @@ var theme;
 var data = {};
 
 // stores the currently selected value field
-var valueField = "Event Participation";
-var valueFields = ["Event Participation"];
+var valueField = "Course Count";
+var valueFields = ["Course Count"];
 
 
-var formatCurrency = function (d) { if (isNaN(d)) d = 0; return "$" + d3.format(",.2f")(d) + " Billion"; };
-var formatEventCount = function (d) { if (isNaN(d)) d = 0; return d3.format("d")(d) + " Participants"; };
+var formatUnits = function (d) { if (isNaN(d)) d = 0; return d3.format("d")(d) + " Courses"; };
 
 
 
 function loadData() {
 
-    d3.csv("data/ASSETT_Reach.csv", function (csv) {
+    d3.csv("data/Vizuly_ProgramMapping.csv", function (csv) {
 
         data.values=prepData(csv);
 
@@ -236,7 +235,7 @@ function onMouseOver(e,d,i) {
     if (d == data) return;
     var rect = e.getBoundingClientRect();
     if (d.target) d = d.target; //This if for link elements
-    createDataTip(rect.left, (rect.top+viz.height() *.05), (d.key || (d['Level' + d.depth])), formatEventCount(d["agg_" + valueField]),valueField);
+    createDataTip(rect.left, (rect.top+viz.height() *.05), (d.key || (d['Level' + d.depth])), formatUnits(d["agg_" + valueField]),valueField);
 
 
 }
