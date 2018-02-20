@@ -31,7 +31,7 @@
 
 // params
 var maxLabelLength = 30;
-var levelsToOpen = 1;
+var levelsToOpen = 0;
 
 
 // html element that holds the chart
@@ -51,13 +51,13 @@ var valueField = "Course Count";
 var valueFields = ["Course Count"];
 
 
-var formatUnits = function (d) { if (isNaN(d)) d = 0; return d3.format("d")(d) + " Courses"; };
+var formatUnits = function (d) { if (isNaN(d)) d = 0; if (d==1) return d3.format("d")(d) + " Course"; else return d3.format("d")(d) + " Courses"; };
 
 
 
 function loadData() {
 
-    d3.csv("data/Vizuly_ProgramMapping.csv", function (csv) {
+    d3.csv("data/Vizuly_ProgramMapping_4levels.csv", function (csv) {
 
         data.values=prepData(csv);
 
@@ -95,6 +95,9 @@ function prepData(csv) {
         .key(function (d) {
             return d.Level3;
         })
+        .key(function (d) {
+            return d.Level4;
+        })
         .entries(values);
 
 
@@ -110,7 +113,7 @@ function prepData(csv) {
         if (node.values) {
             for(var i = node.values.length - 1; i >= 0; i--) {
                 node.id=parentId + "_" + i;
-                if(!node.values[i].key && !node.values[i].Level4) {
+                if(!node.values[i].key && !node.values[i].Level5) {
                     node.values.splice(i, 1);
                 }
                 else {
@@ -164,13 +167,6 @@ function initialize() {
     //We use this function to size the components based on the selected value from the RadiaLProgressTest.html page.
     changeSize(d3.select("#currentDisplay").attr("item_value"));
 
-    // Open up some of the tree branches.
-    viz.toggleNode(data.values[1]);
-    viz.toggleNode(data.values[1].values[7]);
-    //viz.toggleNode(data.values[1].values[1]);
-    //viz.toggleNode(data.values[3].values[2]);
-    //viz.toggleNode(data.values[2].values[0]);
-    //viz.toggleNode(data.values[3]);
 
     // Open up deeper levels of the tree
     if(levelsToOpen > 1) {
@@ -187,6 +183,15 @@ function initialize() {
               }
             }
         }
+    }
+    else{
+    	// Open up some of the tree branches.
+    viz.toggleNode(data.values[1]);
+    viz.toggleNode(data.values[1].values[2]);
+    //viz.toggleNode(data.values[1].values[1]);
+    //viz.toggleNode(data.values[3].values[2]);
+    //viz.toggleNode(data.values[2].values[0]);
+    //viz.toggleNode(data.values[3]);
     }
 }
 
