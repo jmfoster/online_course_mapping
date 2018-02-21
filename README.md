@@ -1,23 +1,26 @@
 # CU Boulder Online Course Visualizations
-Visualizations for analysis of the University of Colorado Boulder's Online Courses.
+Visualizations for analysis of the University of Colorado Boulder's Online Courses. 
 
-# Course-Program-Department-Degree Mapping
+The weighted tree visualizations show the mapping of online CU courses to Program/Certificate, College/Department, and Degree Type. Line thickness corresponds to the number of courses that count for a Program/Certificate, College/Department, or Degree Type.
 
-The weighted tree visualizations show the mapping of online CU courses to Program/Certificate, College/Department, and Degree Type. Line thickness corresponds to the number of courses that count for a Program/Certificate, College/Department, or Degree Type
+## Graduate
 
-## Weighted tree diagram:
+### Interactive
 [Interactive Weighted Tree Diagram](https://jmfoster.github.io/online_course_mapping//docs/weightedtree_assett.html)
 
+### Sankey:
 Same data in a Sankey diagram:
 ![sankey chart down to program level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_programs.png)
 
 ![sankey chart down to class level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_classes.png)
 
-## Number of Certificates/Degrees Offered
+### Number of Certificates/Degrees Offered
 ![Summary of Number of Certificates and Degrees Offered](https://github.com/jmfoster/online_course_mapping/blob/master/figures/degreetype_counts.png)
 
 [Miscellaneous Text Data](https://github.com/jmfoster/online_course_mapping/blob/master/figures/misc_numbers.txt)
 
+## Undergraduate
+[Interactive Weighted Tree Diagram](https://jmfoster.github.io/online_course_mapping//docs/weightedtree_assett_undergrad.html)
 
 
 # Tools 
