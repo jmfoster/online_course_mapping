@@ -1,0 +1,3 @@
+total number of graduate online classes: 245
+number of mapped graduate online classes: 196
+number of unmapped graduate online classes: 49
