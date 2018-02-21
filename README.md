@@ -20,8 +20,12 @@ Same data in a Sankey diagram:
 [Miscellaneous Text Data](https://github.com/jmfoster/online_course_mapping/blob/master/figures/misc_numbers.txt)
 
 ## Undergraduate
+
+### Interactive
 [Interactive Weighted Tree Diagram](https://jmfoster.github.io/online_course_mapping//docs/weightedtree_assett_undergrad.html)
 
+### Sankey:
+![Sankey chart down to class level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_classes_undergrad.png)
 
 # Tools 
 
