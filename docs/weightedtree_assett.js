@@ -30,7 +30,7 @@
 
 
 // params
-var maxLabelLength = 30;
+var maxLabelLength = 21;
 var levelsToOpen = 0;
 
 
