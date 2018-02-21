@@ -75,6 +75,10 @@ Certificate,Engineering Management Program: Certificate,Technology Ventures & Pr
 Certificate,Engineering Management Program: Certificate,Technology Ventures & Product Management,EMEN 5090: Marketing & Technology Venture,1
 Certificate,Engineering Management Program: Certificate,Technology Ventures & Product Management,EMEN 5400: Product Dev & Design,1
 Certificate,Engineering Management Program: Certificate,Technology Ventures & Product Management,EMEN 5710: Applied Business Decisions,1
+Certificate,Interdisciplinary Programs and Certificates: Certificate,Human Language Technology,CSCI 5535: Fund Concepts/Prog Lang,1
+Certificate,Interdisciplinary Programs and Certificates: Certificate,Human Language Technology,CSCI 5832: Natural Language Processing,1
+Certificate,Interdisciplinary Programs and Certificates: Certificate,Human Language Technology,ECEN 5612: Random Processes,1
+Certificate,Interdisciplinary Programs and Certificates: Certificate,Human Language Technology,LING 5832: Natural Language Processing,1
 Certificate,Interdisciplinary Programs and Certificates: Certificate,Renewable & Sustainable Energy,ENST 5000: Energy Systems & Technologies,1
 Certificate,Interdisciplinary Programs and Certificates: Certificate,Renewable & Sustainable Energy,ENST 5001: Energy Policy 21st Century,1
 Certificate,Interdisciplinary Programs and Certificates: Certificate,Renewable & Sustainable Energy,ENST 5002: Business Sustainable Energy,1
@@ -227,13 +231,57 @@ Master of Science,"Civil, Environmental and Architectural Engineering: Master of
 Master of Science,"Civil, Environmental and Architectural Engineering: Master of Science",Civil Engineering,CVEN 5929: Sustainable Comm Dvlp 2,1
 Master of Science,"Civil, Environmental and Architectural Engineering: Master of Science",Civil Engineering,CVEN 6511: Nonlinear FEA Solids & Porous,1
 Master of Science,"Civil, Environmental and Architectural Engineering: Master of Science",Civil Engineering,CVEN 7511: Comp Fin Inelast Multiph,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5003: Special Topics,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5004: Special Topics,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5007: Special Topics,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5013: Special Topics,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5017: Special Topics,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5023: Special Topics,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5032: Special Topics,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5043: Special Topics,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5053: Special Topics,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5114: Waveguides/Trans Lines,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5134: Electromag Radiation,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5138: Control Systems Analysis,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5254: Remote Sensing Signals/Systems,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5264: Electro Absorp/Scatterng/Prop,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5273: Network Systems,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5355: Princ of Electric Dev 1,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5458: Sampled Data/Dig Con Sys,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5523: Compiler Construction,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5533: Fund Concepts/Prog Lang,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5555: Energy Systems and Devices,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5593: Advn Computer Architecture,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5603: Software Project Management,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5612: Random Processes,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5616: Optoelectric Sys Design,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5623: Real-Time Embedded Systm,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5645: Intro to Optical Elec,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5653: Not Available,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5673: Distributed Systems,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5692: Prin of Digital Comm,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5696: Fourier Optics,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5737: Adjust Speed AC Drives,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5753: Computer Performance Modeling,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5763: Embedded Machine Vision Auto,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5797: Intro to Power Electronics,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5803: Mastering Embedded Systems,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5807: Modl/Cntrl Powr Elec Sys,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5813: Principle of Embedded Software,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5817: Resonant Tech Pwe Elec,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5823: IOT Embedded Firmware,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5827: Analog IC Design,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,"ECEN 5831: Brains, Minds, and Computers",1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5840: Independent Study,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 5863: Programmable Logic Design,1
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,ECEN 6144: Elec Bdry Problems,1
 Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,CSCI 5444: Intro to Theory of Comp,1
-Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,CSCI 5454: Design Anlys of Algos,1
-Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,CSCI 5535: Fund Concepts/Prog Lang,1
+Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,CSCI 5454: Design Anlys of Algos,2
+Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,CSCI 5535: Fund Concepts/Prog Lang,2
 Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,CSCI 5817: Database Systems,1
 Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,CSCI 5832: Natural Language Processing,1
-Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,CSCI 7000: Current Tpcs in Computer Sci,1
-Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,LING 5832: Natural Language Processing,1
+Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,CSCI 7000: Current Tpcs in Computer Sci,2
+Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,LING 5832: Natural Language Processing,2
 Master of Science,Interdisciplinary Telecom Program: Master of Science,Network Engineering,TLEN 5010: Network Economics I,1
 Master of Science,Interdisciplinary Telecom Program: Master of Science,Network Engineering,TLEN 5130: Telecom Bus Strategy,1
 Master of Science,Interdisciplinary Telecom Program: Master of Science,Network Engineering,TLEN 5210: Prncples Telecomm Policy,1
@@ -304,6 +352,93 @@ Professional Master's,"Civil, Environmental and Architectural Engineering: Profe
 Professional Master's,"Civil, Environmental and Architectural Engineering: Professional Master's",Water Engineering & Management,CVEN 5564: Water Prof: Leadership & Comm,1
 Professional Master's,"Civil, Environmental and Architectural Engineering: Professional Master's",Water Engineering & Management,CVEN 5574: Water Util Mgt:Issues and Chal,1
 Professional Master's,"Civil, Environmental and Architectural Engineering: Professional Master's",Water Engineering & Management,CVEN 5584: Water Prof:  Financial & Mgmt,1
+Professional Master's,Department of Computer Science: Professional Master's,"Algorithms, Network, and Optimization",CSCI 5352: Network Analysis and Modeling,1
+Professional Master's,Department of Computer Science: Professional Master's,"Algorithms, Network, and Optimization",CSCI 5444: Intro to Theory of Comp,1
+Professional Master's,Department of Computer Science: Professional Master's,"Algorithms, Network, and Optimization",CSCI 5454: Design Anlys of Algos,1
+Professional Master's,Department of Computer Science: Professional Master's,"Algorithms, Network, and Optimization",CSCI 5654: Linear Program,1
+Professional Master's,Department of Computer Science: Professional Master's,Data Science and Engineering,CSCI 5502: Data Mining,1
+Professional Master's,Department of Computer Science: Professional Master's,Data Science and Engineering,CSCI 5622: Machine Learning,1
+Professional Master's,Department of Computer Science: Professional Master's,Data Science and Engineering,CSCI 5654: Linear Program,1
+Professional Master's,Department of Computer Science: Professional Master's,Data Science and Engineering,CSCI 5722: Computer Vision,1
+Professional Master's,Department of Computer Science: Professional Master's,Data Science and Engineering,CSCI 5817: Database Systems,1
+Professional Master's,Department of Computer Science: Professional Master's,Human-Centered Computing,CSCI 5229: Computer Graphics,1
+Professional Master's,Department of Computer Science: Professional Master's,Human-Centered Computing,CSCI 5239: Advanced Computer Graphics,1
+Professional Master's,Department of Computer Science: Professional Master's,Human-Centered Computing,CSCI 5809: Computer Animation,1
+Professional Master's,Department of Computer Science: Professional Master's,Human-Centered Computing,CSCI 7000: Current Tpcs in Computer Sci,1
+Professional Master's,Department of Computer Science: Professional Master's,Intelligent Systems,CSCI 5352: Network Analysis and Modeling,1
+Professional Master's,Department of Computer Science: Professional Master's,Intelligent Systems,CSCI 5622: Machine Learning,1
+Professional Master's,Department of Computer Science: Professional Master's,Intelligent Systems,CSCI 5673: Distributed Systems,1
+Professional Master's,Department of Computer Science: Professional Master's,Intelligent Systems,CSCI 5722: Computer Vision,1
+Professional Master's,Department of Computer Science: Professional Master's,Intelligent Systems,CSCI 5822: Probabilistic Models,1
+Professional Master's,Department of Computer Science: Professional Master's,Intelligent Systems,CSCI 5832: Natural Language Processing,1
+Professional Master's,Department of Computer Science: Professional Master's,Intelligent Systems,CSCI 7000: Current Tpcs in Computer Sci,1
+Professional Master's,Department of Computer Science: Professional Master's,Numerical Computation,CSCI 5229: Computer Graphics,1
+Professional Master's,Department of Computer Science: Professional Master's,Numerical Computation,CSCI 5239: Advanced Computer Graphics,1
+Professional Master's,Department of Computer Science: Professional Master's,Numerical Computation,CSCI 5446: Chaotic Dynamics,1
+Professional Master's,Department of Computer Science: Professional Master's,Numerical Computation,CSCI 5636: Num Sol Part Dif Equat,1
+Professional Master's,Department of Computer Science: Professional Master's,Robotics,ASEN 6020: Optimal Trajectories,1
+Professional Master's,Department of Computer Science: Professional Master's,Robotics,ASEN 6519: Special Topics,1
+Professional Master's,Department of Computer Science: Professional Master's,Robotics,CSCI 5622: Machine Learning,1
+Professional Master's,Department of Computer Science: Professional Master's,Robotics,CSCI 5722: Computer Vision,1
+Professional Master's,Department of Computer Science: Professional Master's,Robotics,CSCI 7000: Current Tpcs in Computer Sci,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,ASEN 6020: Optimal Trajectories,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,ASEN 6519: Special Topics,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,CSCI 5273: Network Systems,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,CSCI 5448: Object-Oriented Anlysis & Dsgn,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,CSCI 5502: Data Mining,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,CSCI 5525: Compiler Construction,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,CSCI 5535: Fund Concepts/Prog Lang,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,CSCI 5573: Advanced Operating Systems,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,CSCI 5608: Software Project Management,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,CSCI 5673: Distributed Systems,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,CSCI 5753: Computer Performance Modeling,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,CSCI 5817: Database Systems,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,CSCI 5828: Foundations/Sftware Engr,1
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,CSCI 7000: Current Tpcs in Computer Sci,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5003: Special Topics,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5004: Special Topics,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5007: Special Topics,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5013: Special Topics,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5017: Special Topics,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5023: Special Topics,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5032: Special Topics,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5043: Special Topics,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5053: Special Topics,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5114: Waveguides/Trans Lines,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5134: Electromag Radiation,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5138: Control Systems Analysis,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5254: Remote Sensing Signals/Systems,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5264: Electro Absorp/Scatterng/Prop,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5273: Network Systems,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5355: Princ of Electric Dev 1,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5458: Sampled Data/Dig Con Sys,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5523: Compiler Construction,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5533: Fund Concepts/Prog Lang,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5555: Energy Systems and Devices,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5593: Advn Computer Architecture,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5603: Software Project Management,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5612: Random Processes,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5616: Optoelectric Sys Design,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5623: Real-Time Embedded Systm,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5645: Intro to Optical Elec,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5653: Not Available,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5673: Distributed Systems,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5692: Prin of Digital Comm,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5696: Fourier Optics,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5737: Adjust Speed AC Drives,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5753: Computer Performance Modeling,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5763: Embedded Machine Vision Auto,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5797: Intro to Power Electronics,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5803: Mastering Embedded Systems,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5807: Modl/Cntrl Powr Elec Sys,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5813: Principle of Embedded Software,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5817: Resonant Tech Pwe Elec,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5823: IOT Embedded Firmware,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5827: Analog IC Design,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,"ECEN 5831: Brains, Minds, and Computers",1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5840: Independent Study,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 5863: Programmable Logic Design,1
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,ECEN 6144: Elec Bdry Problems,1
 Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Embedded Systems,ECEN 5013: Special Topics,1
 Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Embedded Systems,ECEN 5023: Special Topics,1
 Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Embedded Systems,ECEN 5053: Special Topics,1

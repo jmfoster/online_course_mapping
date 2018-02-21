@@ -16,6 +16,7 @@ Certificate,Engineering Management Program: Certificate,Project Management,3
 Certificate,Engineering Management Program: Certificate,Quality Systems for Product & Process Engineering,4
 Certificate,Engineering Management Program: Certificate,Six Sigma Statistical Practitioner,4
 Certificate,Engineering Management Program: Certificate,Technology Ventures & Product Management,4
+Certificate,Interdisciplinary Programs and Certificates: Certificate,Human Language Technology,4
 Certificate,Interdisciplinary Programs and Certificates: Certificate,Renewable & Sustainable Energy,5
 Certificate,Interdisciplinary Telecom Program: Certificate,Telecom Policy & Strategy,4
 Certificate,"Speech, Language and Hearing Sciences: Certificate",Speech-Language Pathology Assistant,2
@@ -34,7 +35,8 @@ Master of Science,Aerospace Engineering: Master of Science,Astrodynamics and Sat
 Master of Science,Aerospace Engineering: Master of Science,Bioastronautics,7
 Master of Science,Aerospace Engineering: Master of Science,"Remote Sensing, Earth, and Space Sciences",16
 Master of Science,"Civil, Environmental and Architectural Engineering: Master of Science",Civil Engineering,17
-Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,7
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,44
+Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,11
 Master of Science,Interdisciplinary Telecom Program: Master of Science,Network Engineering,10
 Master of Science,Interdisciplinary Telecom Program: Master of Science,Network Security,11
 Master of Science,Interdisciplinary Telecom Program: Master of Science,Open Option,22
@@ -42,6 +44,14 @@ Master of Science,Interdisciplinary Telecom Program: Master of Science,Telecom P
 Master of Science,Interdisciplinary Telecom Program: Master of Science,Wireless Networking,10
 Professional Master's,"Civil, Environmental and Architectural Engineering: Professional Master's",Engineering for Developing Communities,2
 Professional Master's,"Civil, Environmental and Architectural Engineering: Professional Master's",Water Engineering & Management,6
+Professional Master's,Department of Computer Science: Professional Master's,"Algorithms, Network, and Optimization",4
+Professional Master's,Department of Computer Science: Professional Master's,Data Science and Engineering,5
+Professional Master's,Department of Computer Science: Professional Master's,Human-Centered Computing,4
+Professional Master's,Department of Computer Science: Professional Master's,Intelligent Systems,7
+Professional Master's,Department of Computer Science: Professional Master's,Numerical Computation,4
+Professional Master's,Department of Computer Science: Professional Master's,Robotics,5
+Professional Master's,Department of Computer Science: Professional Master's,Software Systems and Cloud Computing,14
+Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Electrical and Computer Engineering,44
 Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Embedded Systems,10
 Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Photonics,3
 Professional Master's,"Electrical, Computer & Energy Engineering: Professional Master's",Power Electronics,6
