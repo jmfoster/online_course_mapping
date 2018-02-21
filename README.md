@@ -9,7 +9,15 @@ The weighted tree visualizations show the mapping of online CU courses to Progra
 [Interactive Weighted Tree Diagram](https://jmfoster.github.io/online_course_mapping//docs/weightedtree_assett.html)
 
 Same data in a Sankey diagram:
-![sankey chart](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_sample3.png)
+![sankey chart down to program level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_programs.png)
+
+![sankey chart down to class level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_classes.png)
+
+## Number of Certificates/Degrees Offered
+![Summary of Number of Certificates and Degrees Offered](https://github.com/jmfoster/online_course_mapping/blob/master/figures/degreetype_counts.png)
+
+[Miscellaneous Text Data](https://github.com/jmfoster/online_course_mapping/blob/master/figures/misc_numbers.txt)
+
 
 
 # Tools 
