@@ -1,6 +1,6 @@
 MAPPED VS. UNMAPPED CLASSES 
 total number of graduate online classes: 242
-number of mapped graduate online classes: 196
+number of mapped graduate online classes: 226
 number of unmapped graduate online classes: 16
 
 NUMBER OF CERTIFICATES/DEGREES OFFERED 
