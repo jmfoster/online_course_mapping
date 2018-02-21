@@ -9,15 +9,16 @@ The weighted tree visualizations show the mapping of online CU courses to Progra
 [Interactive Weighted Tree Diagram](https://jmfoster.github.io/online_course_mapping//docs/weightedtree_assett.html)
 
 ### Sankey:
-Same data in a Sankey diagram:
-![sankey chart down to program level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_programs.png)
+Program Level:
+![sankey chart down to program level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_programs_grad.png)
 
-![sankey chart down to class level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_classes.png)
+Class Level:
+![sankey chart down to class level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_classes_grad.png)
 
 ### Number of Certificates/Degrees Offered
 ![Summary of Number of Certificates and Degrees Offered](https://github.com/jmfoster/online_course_mapping/blob/master/figures/degreetype_counts.png)
 
-[Miscellaneous Text Data](https://github.com/jmfoster/online_course_mapping/blob/master/figures/misc_numbers.txt)
+[Miscellaneous Grad Summary Data](https://github.com/jmfoster/online_course_mapping/blob/master/figures/misc_numbers.txt)
 
 ## Undergraduate
 
@@ -25,7 +26,11 @@ Same data in a Sankey diagram:
 [Interactive Weighted Tree Diagram](https://jmfoster.github.io/online_course_mapping//docs/weightedtree_assett_undergrad.html)
 
 ### Sankey:
+Class Level:
 ![Sankey chart down to class level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_classes_undergrad.png)
+
+
+
 
 # Tools 
 
