@@ -1,12 +1,12 @@
 MAPPED VS. UNMAPPED CLASSES 
-total number of graduate online classes: 242
-number of mapped graduate online classes: 226
-number of unmapped graduate online classes: 16
+total number of graduate online classes: 243
+number of mapped graduate online classes: 230
+number of unmapped graduate online classes: 13
 
 NUMBER OF CERTIFICATES/DEGREES OFFERED 
 Master of Science            14
 Certificate                   9
-Master of Arts                8
+Master of Arts                7
 Master of Engineering         3
 Master of Music Education     1
 Name: Degree Type, dtype: int64
