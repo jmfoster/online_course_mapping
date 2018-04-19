@@ -1,66 +1,69 @@
-Level1,Level2,Level3,Course Count
-Certificate,Aerospace Engineering: Certificate,Astrodynamics and Satellite Navigation Systems,10
-Certificate,Aerospace Engineering: Certificate,Remote Sensing,5
-Certificate,"Civil, Environmental and Architectural Engineering: Certificate",Engineering for Developing Communities,2
-Certificate,"Civil, Environmental and Architectural Engineering: Certificate",Water Engineering & Management,5
-Certificate,Division of Continuing Education: Certificate,Language Teaching with Technology,8
-Certificate,"Electrical, Computer & Energy Engineering: Certificate",Electric Drivetrain Engineering,2
-Certificate,"Electrical, Computer & Energy Engineering: Certificate",Embedded Systems,2
-Certificate,"Electrical, Computer & Energy Engineering: Certificate",Power Electronics,3
-Certificate,Engineering Management Program: Certificate,Engineering Entrepreneurship,6
-Certificate,Engineering Management Program: Certificate,Engineering Management,4
-Certificate,Engineering Management Program: Certificate,Leadership & Management,5
-Certificate,Engineering Management Program: Certificate,Managing Applied Research in Technology,4
-Certificate,Engineering Management Program: Certificate,Performance Excellence in Technology Management,5
-Certificate,Engineering Management Program: Certificate,Project Management,3
-Certificate,Engineering Management Program: Certificate,Quality Systems for Product & Process Engineering,4
-Certificate,Engineering Management Program: Certificate,Six Sigma Statistical Practitioner,4
-Certificate,Engineering Management Program: Certificate,Technology Ventures & Product Management,4
-Certificate,Interdisciplinary Programs and Certificates: Certificate,Human Language Technology,4
-Certificate,Interdisciplinary Programs and Certificates: Certificate,Renewable & Sustainable Energy,5
-Certificate,Interdisciplinary Telecom Program: Certificate,Telecom Policy & Strategy,4
-Certificate,"Speech, Language and Hearing Sciences: Certificate",Speech-Language Pathology Assistant,2
-Master of Arts,"College of Media, Communication and Information (CMCI): Master of Arts",Journalism,1
-Master of Arts,"College of Media, Communication and Information (CMCI): Master of Arts",Media and Public Engagement,2
-Master of Arts,Department of Geography: Master of Arts,Geography,2
-Master of Arts,School of Education: Master of Arts,Curriculum and Instruction,12
-Master of Arts,School of Education: Master of Arts,Educational Equity & Cultural Diversity,3
-Master of Arts,School of Education: Master of Arts,"Educational Foundations, Policy and Practice",1
-Master of Arts,School of Education: Master of Arts,Learning Sciences & Human Developement,2
-Master of Engineering,Department of Computer Science: Master of Engineering,Computer Science (M.E.),23
-Master of Engineering,"Electrical, Computer & Energy Engineering: Master of Engineering",Electrical Engineering,44
-Master of Engineering,Engineering Management Program: Master of Engineering,Masters of Engineering in Engineering Management,22
-Master of Music Education,College of Music: Master of Music Education,Music Education,5
-Master of Science,Aerospace Engineering: Master of Science,Aerospace Engineering Systems,16
-Master of Science,Aerospace Engineering: Master of Science,Astrodynamics and Satellite Navigation Systems,12
-Master of Science,Aerospace Engineering: Master of Science,Bioastronautics,7
-Master of Science,Aerospace Engineering: Master of Science,"Remote Sensing, Earth, and Space Sciences",16
-Master of Science,"Civil, Environmental and Architectural Engineering: Master of Science",Civil Engineering,17
-Master of Science,"Civil, Environmental and Architectural Engineering: Master of Science",Engineering for Developing Communities,2
-Master of Science,"Civil, Environmental and Architectural Engineering: Master of Science",Water Engineering & Management,6
-Master of Science,Department of Computer Science: Master of Science,"Algorithms, Network, and Optimization",4
-Master of Science,Department of Computer Science: Master of Science,Computer Science (M.S.),23
-Master of Science,Department of Computer Science: Master of Science,Data Science and Engineering,5
-Master of Science,Department of Computer Science: Master of Science,Human-Centered Computing,4
-Master of Science,Department of Computer Science: Master of Science,Intelligent Systems,7
-Master of Science,Department of Computer Science: Master of Science,Numerical Computation,4
-Master of Science,Department of Computer Science: Master of Science,Robotics,5
-Master of Science,Department of Computer Science: Master of Science,Software Systems and Cloud Computing,14
-Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical Engineering,44
-Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Electrical and Computer Engineering,44
-Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Embedded Systems,10
-Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Photonics,3
-Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",Power Electronics,6
-Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Computational Linguistics,7
-Master of Science,Interdisciplinary Programs and Certificates: Master of Science,Master of the Environment,1
-Master of Science,Interdisciplinary Telecom Program: Master of Science,Network Architecture & Operations,4
-Master of Science,Interdisciplinary Telecom Program: Master of Science,Network Engineering,10
-Master of Science,Interdisciplinary Telecom Program: Master of Science,Network Security,11
-Master of Science,Interdisciplinary Telecom Program: Master of Science,Online Cybersecurity,4
-Master of Science,Interdisciplinary Telecom Program: Master of Science,Open Option,22
-Master of Science,Interdisciplinary Telecom Program: Master of Science,Telecom Policy & Strategy,10
-Master of Science,Interdisciplinary Telecom Program: Master of Science,Wireless Networking,10
-Master of Science,Mechanical Engineering: Master of Science,Biomedical,2
-Master of Science,Mechanical Engineering: Master of Science,Clean Technology,2
-Master of Science,Mechanical Engineering: Master of Science,Design,2
-Master of Science,Mechanical Engineering: Master of Science,"Modeling, Simulation, & Analysis",4
+Level1,Level2,Unique Course Count,Level3,Duplicate Course Count,Sum Duplicate Course Count,Adjusted Course Count,Course Count,Level2 Count,Level3 Count,Level2: Count,Level3: Count
+Certificate,Aerospace Engineering: Certificate,15,Astrodynamics and Satellite Navigation Systems (Certificate),10,15,10.0,10.0,15,10,Aerospace Engineering: Certificate: 15,Astrodynamics and Satellite Navigation Systems (Certificate): 10
+Certificate,Aerospace Engineering: Certificate,15,Remote Sensing,5,15,5.0,5.0,15,5,Aerospace Engineering: Certificate: 15,Remote Sensing: 5
+Certificate,"Civil, Environmental and Architectural Engineering: Certificate",10,Engineering for Developing Communities (Certificate),2,10,2.0,2.0,10,2,"Civil, Environmental and Architectural Engineering: Certificate: 10",Engineering for Developing Communities (Certificate): 2
+Certificate,"Civil, Environmental and Architectural Engineering: Certificate",10,Tunnel Engineering,3,10,3.0,3.0,10,3,"Civil, Environmental and Architectural Engineering: Certificate: 10",Tunnel Engineering: 3
+Certificate,"Civil, Environmental and Architectural Engineering: Certificate",10,Water Engineering & Management (Certificate),5,10,5.0,5.0,10,5,"Civil, Environmental and Architectural Engineering: Certificate: 10",Water Engineering & Management (Certificate): 5
+Certificate,Division of Continuing Education: Certificate,8,Language Teaching with Technology,8,8,8.0,8.0,8,8,Division of Continuing Education: Certificate: 8,Language Teaching with Technology: 8
+Certificate,"Electrical, Computer & Energy Engineering: Certificate",7,Electric Drivetrain Engineering,2,7,2.0,2.0,7,2,"Electrical, Computer & Energy Engineering: Certificate: 7",Electric Drivetrain Engineering: 2
+Certificate,"Electrical, Computer & Energy Engineering: Certificate",7,Embedded Systems (Certificate),2,7,2.0,2.0,7,2,"Electrical, Computer & Energy Engineering: Certificate: 7",Embedded Systems (Certificate): 2
+Certificate,"Electrical, Computer & Energy Engineering: Certificate",7,Power Electronics (Certificate),3,7,3.0,3.0,7,3,"Electrical, Computer & Energy Engineering: Certificate: 7",Power Electronics (Certificate): 3
+Certificate,Engineering Management Program: Certificate,19,Engineering Entrepreneurship,6,39,2.9230769230769234,2.9230769230769234,19,6,Engineering Management Program: Certificate: 19,Engineering Entrepreneurship: 6
+Certificate,Engineering Management Program: Certificate,19,Engineering Management,4,39,1.9487179487179487,1.9487179487179487,19,4,Engineering Management Program: Certificate: 19,Engineering Management: 4
+Certificate,Engineering Management Program: Certificate,19,Leadership & Management,5,39,2.4358974358974357,2.4358974358974357,19,5,Engineering Management Program: Certificate: 19,Leadership & Management: 5
+Certificate,Engineering Management Program: Certificate,19,Managing Applied Research in Technology,4,39,1.9487179487179487,1.9487179487179487,19,4,Engineering Management Program: Certificate: 19,Managing Applied Research in Technology: 4
+Certificate,Engineering Management Program: Certificate,19,Performance Excellence in Technology Management,5,39,2.4358974358974357,2.4358974358974357,19,5,Engineering Management Program: Certificate: 19,Performance Excellence in Technology Management: 5
+Certificate,Engineering Management Program: Certificate,19,Project Management,3,39,1.4615384615384617,1.4615384615384617,19,3,Engineering Management Program: Certificate: 19,Project Management: 3
+Certificate,Engineering Management Program: Certificate,19,Quality Systems for Product & Process Engineering,4,39,1.9487179487179487,1.9487179487179487,19,4,Engineering Management Program: Certificate: 19,Quality Systems for Product & Process Engineering: 4
+Certificate,Engineering Management Program: Certificate,19,Six Sigma Statistical Practitioner,4,39,1.9487179487179487,1.9487179487179487,19,4,Engineering Management Program: Certificate: 19,Six Sigma Statistical Practitioner: 4
+Certificate,Engineering Management Program: Certificate,19,Technology Ventures & Product Management,4,39,1.9487179487179487,1.9487179487179487,19,4,Engineering Management Program: Certificate: 19,Technology Ventures & Product Management: 4
+Certificate,Interdisciplinary Programs and Certificates: Certificate,9,Human Language Technology,4,9,4.0,4.0,9,4,Interdisciplinary Programs and Certificates: Certificate: 9,Human Language Technology: 4
+Certificate,Interdisciplinary Programs and Certificates: Certificate,9,Renewable & Sustainable Energy,5,9,5.0,5.0,9,5,Interdisciplinary Programs and Certificates: Certificate: 9,Renewable & Sustainable Energy: 5
+Certificate,Interdisciplinary Telecom Program: Certificate,4,Telecom Policy & Strategy (Certificate),4,4,4.0,4.0,4,4,Interdisciplinary Telecom Program: Certificate: 4,Telecom Policy & Strategy (Certificate): 4
+Certificate,"Speech, Language and Hearing Sciences: Certificate",2,Speech-Language Pathology Assistant,2,2,2.0,2.0,2,2,"Speech, Language and Hearing Sciences: Certificate: 2",Speech-Language Pathology Assistant: 2
+Master of Arts,"College of Media, Communication and Information (CMCI): Master of Arts",3,Journalism,1,3,1.0,1.0,3,1,"College of Media, Communication and Information (CMCI): Master of Arts: 3",Journalism: 1
+Master of Arts,"College of Media, Communication and Information (CMCI): Master of Arts",3,Media and Public Engagement,2,3,2.0,2.0,3,2,"College of Media, Communication and Information (CMCI): Master of Arts: 3",Media and Public Engagement: 2
+Master of Arts,Department of Geography: Master of Arts,2,Geography,2,2,2.0,2.0,2,2,Department of Geography: Master of Arts: 2,Geography: 2
+Master of Arts,School of Education: Master of Arts,14,Curriculum and Instruction,12,18,9.333333333333332,9.333333333333332,14,12,School of Education: Master of Arts: 14,Curriculum and Instruction: 12
+Master of Arts,School of Education: Master of Arts,14,Educational Equity & Cultural Diversity,3,18,2.333333333333333,2.333333333333333,14,3,School of Education: Master of Arts: 14,Educational Equity & Cultural Diversity: 3
+Master of Arts,School of Education: Master of Arts,14,"Educational Foundations, Policy and Practice",1,18,0.7777777777777777,0.7777777777777777,14,1,School of Education: Master of Arts: 14,"Educational Foundations, Policy and Practice: 1"
+Master of Arts,School of Education: Master of Arts,14,Learning Sciences & Human Developement,2,18,1.5555555555555554,1.5555555555555554,14,2,School of Education: Master of Arts: 14,Learning Sciences & Human Developement: 2
+Master of Engineering,Department of Computer Science: Master of Engineering,23,Computer Science (M.E.),23,23,23.0,23.0,23,23,Department of Computer Science: Master of Engineering: 23,Computer Science (M.E.): 23
+Master of Engineering,"Electrical, Computer & Energy Engineering: Master of Engineering",44,Electrical Engineering (M.E.),44,44,44.0,44.0,44,44,"Electrical, Computer & Energy Engineering: Master of Engineering: 44",Electrical Engineering (M.E.): 44
+Master of Engineering,Engineering Management Program: Master of Engineering,22,Masters of Engineering in Engineering Management,22,22,22.0,22.0,22,22,Engineering Management Program: Master of Engineering: 22,Masters of Engineering in Engineering Management: 22
+Master of Music Education,College of Music: Master of Music Education,5,Music Education,5,5,5.0,5.0,5,5,College of Music: Master of Music Education: 5,Music Education: 5
+Master of Science,Aerospace Engineering: Master of Science,40,Aerospace Engineering Sciences,40,91,17.582417582417584,17.582417582417584,40,40,Aerospace Engineering: Master of Science: 40,Aerospace Engineering Sciences: 40
+Master of Science,Aerospace Engineering: Master of Science,40,Aerospace Engineering Systems,16,91,7.032967032967034,7.032967032967034,40,16,Aerospace Engineering: Master of Science: 40,Aerospace Engineering Systems: 16
+Master of Science,Aerospace Engineering: Master of Science,40,Astrodynamics and Satellite Navigation Systems (M.S.),12,91,5.274725274725275,5.274725274725275,40,12,Aerospace Engineering: Master of Science: 40,Astrodynamics and Satellite Navigation Systems (M.S.): 12
+Master of Science,Aerospace Engineering: Master of Science,40,Bioastronautics,7,91,3.076923076923077,3.076923076923077,40,7,Aerospace Engineering: Master of Science: 40,Bioastronautics: 7
+Master of Science,Aerospace Engineering: Master of Science,40,"Remote Sensing, Earth, and Space Sciences",16,91,7.032967032967034,7.032967032967034,40,16,Aerospace Engineering: Master of Science: 40,"Remote Sensing, Earth, and Space Sciences: 16"
+Master of Science,"Civil, Environmental and Architectural Engineering: Master of Science",17,Civil Engineering,17,25,11.56,11.56,17,17,"Civil, Environmental and Architectural Engineering: Master of Science: 17",Civil Engineering: 17
+Master of Science,"Civil, Environmental and Architectural Engineering: Master of Science",17,Engineering for Developing Communities (M.S.),2,25,1.36,1.36,17,2,"Civil, Environmental and Architectural Engineering: Master of Science: 17",Engineering for Developing Communities (M.S.): 2
+Master of Science,"Civil, Environmental and Architectural Engineering: Master of Science",17,Water Engineering & Management (M.S.),6,25,4.08,4.08,17,6,"Civil, Environmental and Architectural Engineering: Master of Science: 17",Water Engineering & Management (M.S.): 6
+Master of Science,Department of Computer Science: Master of Science,28,"Algorithms, Network, and Optimization",4,66,1.696969696969697,1.696969696969697,28,4,Department of Computer Science: Master of Science: 28,"Algorithms, Network, and Optimization: 4"
+Master of Science,Department of Computer Science: Master of Science,28,Computer Science (M.S.),23,66,9.757575757575758,9.757575757575758,28,23,Department of Computer Science: Master of Science: 28,Computer Science (M.S.): 23
+Master of Science,Department of Computer Science: Master of Science,28,Data Science and Engineering,5,66,2.121212121212121,2.121212121212121,28,5,Department of Computer Science: Master of Science: 28,Data Science and Engineering: 5
+Master of Science,Department of Computer Science: Master of Science,28,Human-Centered Computing,4,66,1.696969696969697,1.696969696969697,28,4,Department of Computer Science: Master of Science: 28,Human-Centered Computing: 4
+Master of Science,Department of Computer Science: Master of Science,28,Intelligent Systems,7,66,2.9696969696969697,2.9696969696969697,28,7,Department of Computer Science: Master of Science: 28,Intelligent Systems: 7
+Master of Science,Department of Computer Science: Master of Science,28,Numerical Computation,4,66,1.696969696969697,1.696969696969697,28,4,Department of Computer Science: Master of Science: 28,Numerical Computation: 4
+Master of Science,Department of Computer Science: Master of Science,28,Robotics,5,66,2.121212121212121,2.121212121212121,28,5,Department of Computer Science: Master of Science: 28,Robotics: 5
+Master of Science,Department of Computer Science: Master of Science,28,Software Systems and Cloud Computing,14,66,5.9393939393939394,5.9393939393939394,28,14,Department of Computer Science: Master of Science: 28,Software Systems and Cloud Computing: 14
+Master of Science,Division of Continuing Education: Master of Science,5,Organizational Leadership,5,5,5.0,5.0,5,5,Division of Continuing Education: Master of Science: 5,Organizational Leadership: 5
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",44,Electrical Engineering (M.S.),44,107,18.093457943925234,18.093457943925234,44,44,"Electrical, Computer & Energy Engineering: Master of Science: 44",Electrical Engineering (M.S.): 44
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",44,Electrical and Computer Engineering,44,107,18.093457943925234,18.093457943925234,44,44,"Electrical, Computer & Energy Engineering: Master of Science: 44",Electrical and Computer Engineering: 44
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",44,Embedded Systems (M.S.),10,107,4.11214953271028,4.11214953271028,44,10,"Electrical, Computer & Energy Engineering: Master of Science: 44",Embedded Systems (M.S.): 10
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",44,Photonics,3,107,1.233644859813084,1.233644859813084,44,3,"Electrical, Computer & Energy Engineering: Master of Science: 44",Photonics: 3
+Master of Science,"Electrical, Computer & Energy Engineering: Master of Science",44,Power Electronics (M.S.),6,107,2.467289719626168,2.467289719626168,44,6,"Electrical, Computer & Energy Engineering: Master of Science: 44",Power Electronics (M.S.): 6
+Master of Science,Interdisciplinary Programs and Certificates: Master of Science,8,Computational Linguistics,7,8,7.0,7.0,8,7,Interdisciplinary Programs and Certificates: Master of Science: 8,Computational Linguistics: 7
+Master of Science,Interdisciplinary Programs and Certificates: Master of Science,8,Master of the Environment,1,8,1.0,1.0,8,1,Interdisciplinary Programs and Certificates: Master of Science: 8,Master of the Environment: 1
+Master of Science,Interdisciplinary Telecom Program: Master of Science,23,Network Architecture & Operations,4,71,1.295774647887324,1.295774647887324,23,4,Interdisciplinary Telecom Program: Master of Science: 23,Network Architecture & Operations: 4
+Master of Science,Interdisciplinary Telecom Program: Master of Science,23,Network Engineering,10,71,3.23943661971831,3.23943661971831,23,10,Interdisciplinary Telecom Program: Master of Science: 23,Network Engineering: 10
+Master of Science,Interdisciplinary Telecom Program: Master of Science,23,Network Security,11,71,3.5633802816901405,3.5633802816901405,23,11,Interdisciplinary Telecom Program: Master of Science: 23,Network Security: 11
+Master of Science,Interdisciplinary Telecom Program: Master of Science,23,Online Cybersecurity,4,71,1.295774647887324,1.295774647887324,23,4,Interdisciplinary Telecom Program: Master of Science: 23,Online Cybersecurity: 4
+Master of Science,Interdisciplinary Telecom Program: Master of Science,23,Open Option,22,71,7.126760563380281,7.126760563380281,23,21,Interdisciplinary Telecom Program: Master of Science: 23,Open Option: 21
+Master of Science,Interdisciplinary Telecom Program: Master of Science,23,Telecom Policy & Strategy (M.S.),10,71,3.23943661971831,3.23943661971831,23,10,Interdisciplinary Telecom Program: Master of Science: 23,Telecom Policy & Strategy (M.S.): 10
+Master of Science,Interdisciplinary Telecom Program: Master of Science,23,Wireless Networking,10,71,3.23943661971831,3.23943661971831,23,10,Interdisciplinary Telecom Program: Master of Science: 23,Wireless Networking: 10
+Master of Science,Mechanical Engineering: Master of Science,6,Biomedical,2,10,1.2000000000000002,1.2000000000000002,6,2,Mechanical Engineering: Master of Science: 6,Biomedical: 2
+Master of Science,Mechanical Engineering: Master of Science,6,Clean Technology,2,10,1.2000000000000002,1.2000000000000002,6,2,Mechanical Engineering: Master of Science: 6,Clean Technology: 2
+Master of Science,Mechanical Engineering: Master of Science,6,Design,2,10,1.2000000000000002,1.2000000000000002,6,2,Mechanical Engineering: Master of Science: 6,Design: 2
+Master of Science,Mechanical Engineering: Master of Science,6,"Modeling, Simulation, & Analysis",4,10,2.4000000000000004,2.4000000000000004,6,4,Mechanical Engineering: Master of Science: 6,"Modeling, Simulation, & Analysis: 4"
