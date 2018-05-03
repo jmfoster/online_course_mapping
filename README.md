@@ -10,10 +10,10 @@ The weighted tree visualizations show the mapping of online CU courses to Progra
 
 ### Sankey:
 Program Level:
-![sankey chart down to program level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_programs_grad.png)
+![sankey chart down to program level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_programs_grad.svg)
 
 Class Level:
-![sankey chart down to class level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_classes_grad.png)
+![sankey chart down to class level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_classes_grad.svg)
 
 ### Number of Certificates/Degrees Offered
 ![Summary of Number of Certificates and Degrees Offered](https://github.com/jmfoster/online_course_mapping/blob/master/figures/degreetype_counts.png)
@@ -27,7 +27,7 @@ Class Level:
 
 ### Sankey:
 Class Level:
-![Sankey chart down to class level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_classes_undergrad.png)
+![Sankey chart down to class level](https://github.com/jmfoster/online_course_mapping/blob/master/figures/sankey_classes_undergrad.svg)
 
 
 
